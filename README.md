@@ -4,15 +4,15 @@
 
 <h2>👻I'm Michelle</h2>
 <p align = "centre">
-I am a University student learning Artifical intelligence.
+I am a University student learning Artificial Intelligence.
 <br>
 <br>
-I have a massive love for programming and i am highly dedication to expand my skillset through projects.
+I have a massive love for programming and i am highly dedicated to expand my skillset through projects.
 </p>
 <hr>
 <h2>🌱What Im Currently Learning...</h2>
 <ul>
-<li>AI bots to do a vaired amount of different tasks</li>
+<li>AI bots to do a varied amount of different tasks</li>
 <li>Making interfaces</li>
 </ul>
 <hr>
