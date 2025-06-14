@@ -17,7 +17,7 @@ I have a massive love for programming and i am highly dedication to expand my sk
 </ul>
 <hr>
 <h2>📫Where To Find Me...</h2>
-<img src = Images/Linkedin.png width = 15px>
+<img src = Images/Linkedin.png width = 15px style="vertical-align:middle;">
 <a href = "https://www.linkedin.com/in/michelle-elizabeth-thomson/">My LinkedIn!</a>
 
 
