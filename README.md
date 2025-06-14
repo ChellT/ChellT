@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "Images/CityImageBlue.gif"/>
+<img src = "Images/WelcomeImage.png"/>
 <p/>
 <!--
 **ChellT/ChellT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
