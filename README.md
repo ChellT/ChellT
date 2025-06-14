@@ -1,4 +1,4 @@
-![welcomegif](Images/CityImageBlue.gif)
+<img src = "Images/CityImageBlue.gif" style="display:block; margin:auto;" />
 
 <!--
 **ChellT/ChellT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
